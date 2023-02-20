@@ -1,0 +1,22 @@
+{
+    "name": "victordev/cursopoo-tiojobs",
+    "description": "Curso de programação orientada a objetos pelo professor Icaro Jobs (Tio Jobs).",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "VictordaSilvaf",
+            "email": "victordasilvafernandes@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^8.1"
+    },
+    "require-dev": {
+        "symfony/var-dumper": "^6.1"
+    }
+}
